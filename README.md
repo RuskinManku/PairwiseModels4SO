@@ -1,4 +1,4 @@
-# PairwiseModels
+# PairwiseModels4SO
 Code accompanying the paper "Local and Global Context-Based Pairwise Models for Sentence Ordering"
 
 - Use transformers==3.0.2 to run the code without errors. 
